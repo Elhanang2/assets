@@ -1,0 +1,120 @@
+body {
+    
+    
+}
+.big-container{
+    position:absolute;
+   
+}
+h2{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+.heading{
+   width: auto;
+    position: relative;
+    background-color: #ffffff;
+    display: inline-block;
+    height: auto;
+    margin-top:30px;
+    
+    padding-left: 270px;
+    
+    
+}
+h1{
+    padding: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    float: left;
+    color:#ffffff;
+    margin:0px auto 0px 0px;
+    position: relative;
+}
+.nav{
+    position: relative;
+    padding-left: 350px;
+    word-spacing: 20px;
+    font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    display: inline;
+    margin-right: 0px;
+}
+a{
+    text-decoration: unset;
+}
+
+.nav li{
+    display:inline-table;
+    padding-top:30px;
+    padding-bottom:0px;
+
+    
+}
+#bk-image{   
+       
+    
+}
+.container{
+    position: relative;
+    border-top:1px solid #cccccc;
+    
+    background-repeat: repeat-y; /* for vertical repeat */
+    background-repeat: repeat-x;
+    
+
+        
+}
+#main-bio{
+    clear: both;
+   border: 1px solid #dddddd;
+   float: left;
+   background-color:#ffffff;
+   position: relative;
+   margin-top: 30px;
+   margin-left: 277px;
+   margin-right: 277px;
+   padding-left:30px;
+   padding-right:30px;
+   margin-bottom: 0px;
+   
+}
+#bio-image{float: left;
+    margin-right: 40px;
+    
+}
+p {
+   font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-indent: 20px;
+    text-align: justify;
+    word-spacing: 5px;
+    line-height: 30px;
+    color: #777777;   
+}
+.footer{
+    position: relative;
+    position: sticky;
+    text-align: center;
+    background-color: #666666;
+    padding-top:15px;
+    padding-bottom:5px;
+}
+.box{
+    position: relative;
+   clear: both;
+    background-color: #4aaaa5;
+    height: 10px;      
+}
+#content{
+    font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    line-height: 30px;
+}
+.portfolio{
+    float: left;
+    margin:30px;
+}
+#img{
+    padding:30px;
+}
+
